@@ -1,0 +1,619 @@
+{
+    "results": [
+        {
+            "username": "aaaa",
+            "scorePercent": 5.0,
+            "categoryScores": [
+                {
+                    "category": "Understanding Social Engineering Methods",
+                    "score": 1
+                }
+            ],
+            "rank": "Basic"
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": "Basic"
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": "Basic"
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": "Basic"
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": "Basic"
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 20.0,
+            "categoryScores": [
+                {
+                    "category": "Understanding Social Engineering Methods",
+                    "score": 1
+                },
+                {
+                    "category": "Identifying Suspicious URLs",
+                    "score": 1
+                },
+                {
+                    "category": "Identifying Phishing Emails",
+                    "score": 1
+                },
+                {
+                    "category": "Strong Password Creation",
+                    "score": 1
+                }
+            ],
+            "rank": "Basic"
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": "Basic"
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": "Basic"
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": "Basic"
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 8.333333015441895,
+            "categoryScores": [
+                {
+                    "category": "Understanding Social Engineering Methods",
+                    "score": 1
+                }
+            ],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 8.333333015441895,
+            "categoryScores": [
+                {
+                    "category": "Identifying Phishing Emails",
+                    "score": 1
+                }
+            ],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 8.333333015441895,
+            "categoryScores": [
+                {
+                    "category": "Understanding Social Engineering Methods",
+                    "score": 1
+                }
+            ],
+            "rank": "Basic"
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": "Basic"
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": "Basic"
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 25.0,
+            "categoryScores": [
+                {
+                    "category": "Understanding Social Engineering Methods",
+                    "score": 1
+                },
+                {
+                    "category": "Identifying Phishing Emails",
+                    "score": 1
+                },
+                {
+                    "category": "Strong Password Creation",
+                    "score": 1
+                }
+            ],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 25.0,
+            "categoryScores": [
+                {
+                    "category": "Understanding Social Engineering Methods",
+                    "score": 1
+                },
+                {
+                    "category": "Identifying Phishing Emails",
+                    "score": 1
+                },
+                {
+                    "category": "Strong Password Creation",
+                    "score": 1
+                }
+            ],
+            "rank": "Basic"
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 25.0,
+            "categoryScores": [
+                {
+                    "category": "Understanding Social Engineering Methods",
+                    "score": 1
+                },
+                {
+                    "category": "Identifying Phishing Emails",
+                    "score": 1
+                },
+                {
+                    "category": "Strong Password Creation",
+                    "score": 1
+                }
+            ],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 25.0,
+            "categoryScores": [
+                {
+                    "category": "Understanding Social Engineering Methods",
+                    "score": 1
+                },
+                {
+                    "category": "Identifying Phishing Emails",
+                    "score": 1
+                },
+                {
+                    "category": "Strong Password Creation",
+                    "score": 1
+                }
+            ],
+            "rank": "Basic"
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 8.333333015441895,
+            "categoryScores": [
+                {
+                    "category": "Identifying Phishing Emails",
+                    "score": 1
+                }
+            ],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 8.333333015441895,
+            "categoryScores": [
+                {
+                    "category": "Identifying Phishing Emails",
+                    "score": 1
+                }
+            ],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 25.0,
+            "categoryScores": [
+                {
+                    "category": "Identifying Phishing Emails",
+                    "score": 2
+                },
+                {
+                    "category": "Strong Password Creation",
+                    "score": 1
+                }
+            ],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 25.0,
+            "categoryScores": [
+                {
+                    "category": "Identifying Phishing Emails",
+                    "score": 2
+                },
+                {
+                    "category": "Strong Password Creation",
+                    "score": 1
+                }
+            ],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 25.0,
+            "categoryScores": [
+                {
+                    "category": "Understanding Social Engineering Methods",
+                    "score": 1
+                },
+                {
+                    "category": "Identifying Phishing Emails",
+                    "score": 1
+                },
+                {
+                    "category": "Strong Password Creation",
+                    "score": 1
+                }
+            ],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 25.0,
+            "categoryScores": [
+                {
+                    "category": "Understanding Social Engineering Methods",
+                    "score": 1
+                },
+                {
+                    "category": "Identifying Phishing Emails",
+                    "score": 1
+                },
+                {
+                    "category": "Strong Password Creation",
+                    "score": 1
+                }
+            ],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 16.66666603088379,
+            "categoryScores": [
+                {
+                    "category": "Understanding Social Engineering Methods",
+                    "score": 1
+                },
+                {
+                    "category": "Strong Password Creation",
+                    "score": 1
+                }
+            ],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 16.66666603088379,
+            "categoryScores": [
+                {
+                    "category": "Understanding Social Engineering Methods",
+                    "score": 1
+                },
+                {
+                    "category": "Strong Password Creation",
+                    "score": 1
+                }
+            ],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 16.66666603088379,
+            "categoryScores": [
+                {
+                    "category": "Understanding Social Engineering Methods",
+                    "score": 1
+                },
+                {
+                    "category": "Strong Password Creation",
+                    "score": 1
+                }
+            ],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 16.66666603088379,
+            "categoryScores": [
+                {
+                    "category": "Understanding Social Engineering Methods",
+                    "score": 1
+                },
+                {
+                    "category": "Strong Password Creation",
+                    "score": 1
+                }
+            ],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 33.33333206176758,
+            "categoryScores": [
+                {
+                    "category": "Understanding Social Engineering Methods",
+                    "score": 2
+                },
+                {
+                    "category": "Identifying Suspicious URLs",
+                    "score": 1
+                },
+                {
+                    "category": "Strong Password Creation",
+                    "score": 1
+                }
+            ],
+            "rank": "Basic"
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": "Basic"
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 25.0,
+            "categoryScores": [
+                {
+                    "category": "Understanding Social Engineering Methods",
+                    "score": 3
+                }
+            ],
+            "rank": "Basic"
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 25.0,
+            "categoryScores": [
+                {
+                    "category": "Understanding Social Engineering Methods",
+                    "score": 3
+                }
+            ],
+            "rank": "Basic"
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 100.0,
+            "categoryScores": [
+                {
+                    "category": "Understanding Social Engineering Methods",
+                    "score": 3
+                },
+                {
+                    "category": "Identifying Suspicious URLs",
+                    "score": 3
+                },
+                {
+                    "category": "Identifying Phishing Emails",
+                    "score": 3
+                },
+                {
+                    "category": "Strong Password Creation",
+                    "score": 3
+                }
+            ],
+            "rank": "Advanced"
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 100.0,
+            "categoryScores": [
+                {
+                    "category": "Understanding Social Engineering Methods",
+                    "score": 3
+                },
+                {
+                    "category": "Identifying Suspicious URLs",
+                    "score": 3
+                },
+                {
+                    "category": "Identifying Phishing Emails",
+                    "score": 3
+                },
+                {
+                    "category": "Strong Password Creation",
+                    "score": 3
+                }
+            ],
+            "rank": "Advanced"
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 25.0,
+            "categoryScores": [
+                {
+                    "category": "Strong Password Creation",
+                    "score": 3
+                }
+            ],
+            "rank": "Basic"
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 8.333333015441895,
+            "categoryScores": [
+                {
+                    "category": "Understanding Social Engineering Methods",
+                    "score": 1
+                }
+            ],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 16.66666603088379,
+            "categoryScores": [
+                {
+                    "category": "Identifying Phishing Emails",
+                    "score": 1
+                },
+                {
+                    "category": "Strong Password Creation",
+                    "score": 1
+                }
+            ],
+            "rank": ""
+        },
+        {
+            "username": "aaaa",
+            "scorePercent": 0.0,
+            "categoryScores": [],
+            "rank": "Basic"
+        }
+    ]
+}

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 1a46ddf30e5f667428809af66df3c2b2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WallPrefab: {instanceID: 0}
+  - teeWallPrefab: {instanceID: 0}
+  - crossWallPrefab: {instanceID: 0}
+  - impWallPrefab: {instanceID: 0}
+  - cornerWallPrefab: {instanceID: 0}
+  - StartWallPrefab: {instanceID: 0}
+  - EndWallPrefab: {instanceID: 0}
+  - DoorPrefab: {fileID: 1163681466935404, guid: c876666a6a85488488821a1a72e52653, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

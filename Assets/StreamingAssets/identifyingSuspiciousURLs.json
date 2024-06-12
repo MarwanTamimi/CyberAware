@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "category": "Identifying Suspicious URLs",
+    "questionText": "What does 'https://' in a URL signify?",
+    "answers": [
+      "That the site is the top-ranked search result",
+      "That the site is not secure",
+      "That the site has a secure connection using SSL",
+      "That the site is optimized for HTTP 2"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 2,
+    "category": "Identifying Suspicious URLs",
+    "questionText": "Which of the following URLs is likely to be the safest and most legitimate for online banking?",
+    "answers": [
+      "http://www.example-bank.com",
+      "https://banking.example.com",
+      "http://www.examplebank.com",
+      "https://example-banking.com/login/"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 3,
+    "category": "Identifying Suspicious URLs",
+    "questionText": "A URL shortener makes a URL:",
+    "answers": [
+      "More secure",
+      "Easier to share",
+      "More suspicious",
+      "Faster to load"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 4,
+    "category": "Identifying Suspicious URLs",
+    "questionText": "How can you verify the legitimacy of a website's URL?",
+    "answers": [
+      "By ensuring it uses a well-known top-level domain (TLD) like '.com' or '.org'",
+      "Checking if the URL has a padlock symbol and 'https', which guarantees its safety",
+      "Evaluating if the URL matches the expected domain format and looking for subtle misspellings",
+      "Seeing if the website provides contact information and a privacy policy"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 5,
+    "category": "Identifying Suspicious URLs",
+    "questionText": "Which URL parameter is often manipulated in phishing attacks to redirect users to malicious sites?",
+    "answers": [
+      "Subdomains",
+      "HTTPS protocol",
+      "Port numbers",
+      "Query strings"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 6,
+    "category": "Identifying Suspicious URLs",
+    "questionText": "How should you treat web addresses that contain misspellings of well-known websites?",
+    "answers": [
+      "They are likely to be safe as typos can occur",
+      "They can be trusted if the website looks authentic",
+      "They should be avoided as they may indicate a phishing attempt",
+      "They are acceptable for use in casual browsing"
+    ],
+    "correctAnswerIndex": 2
+  }
+]

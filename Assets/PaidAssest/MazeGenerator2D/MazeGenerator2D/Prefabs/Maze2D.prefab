@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &144808
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 457984}
+  - component: {fileID: 11421940}
+  m_Layer: 0
+  m_Name: Maze2D
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &457984
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 144808}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 0.1, y: 0.1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &11421940
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 144808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1a46ddf30e5f667428809af66df3c2b2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MazeMode: 0
+  WallPrefab: {fileID: 175380, guid: 9e534300a2ba79942922dce7566a6862, type: 3}
+  teeWallPrefab: {fileID: 8448646081217223698, guid: c85c6d14f5453c643ab68a44707a7aa5, type: 3}
+  crossWallPrefab: {fileID: 5001784121494288978, guid: 720e311e872f0df45a17be7ba5065be5, type: 3}
+  impWallPrefab: {fileID: 1039477416472683410, guid: 3a6a89fd953decc47a5917c67c26955c, type: 3}
+  cornerWallPrefab: {fileID: 7386897394584765573, guid: 7e45108e4cb1188428435775d1aa866b, type: 3}
+  MazeWidth: 15
+  MazeHeight: 10
+  StartPosition: {x: 0, y: 0}
+  WallWidth: 0.4
+  TunnelWidth: 0.4
+  IsUseSeed: 0
+  MazeSeed: 1000
+  UseStartWall: 0
+  UseEndWall: 0
+  CreateOnStart: 1
+  StartWallPrefab: {fileID: 147654, guid: 4e168ff1880194743a0d5b73b4ba42e5, type: 3}
+  EndWallPrefab: {fileID: 141698, guid: 81971a203ade13446b8ece96adc41479, type: 3}
+  DoorPrefab: {fileID: 0}

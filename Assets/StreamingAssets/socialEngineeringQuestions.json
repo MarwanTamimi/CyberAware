@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "category": "Understanding Social Engineering Methods",
+    "questionText": "What is social engineering?",
+    "answers": [
+      "The art of engineering people of society to follow a cause of your choice",
+      "The art of making your social media profile serve a business purpose",
+      "The use of community based computing projects",
+      "The art of manipulating or conning individuals into giving away private information or login IDs and passwords"
+    ],
+    "correctAnswerIndex": 3
+  },
+  {
+    "id": 2,
+    "category": "Understanding Social Engineering Methods",
+    "questionText": "Which of the following is a common social engineering tactic?",
+    "answers": [
+      "Using strong passwords",
+      "Encrypting sensitive data",
+      "Pretending to be a trusted individual to obtain sensitive information",
+      "Regularly updating software"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 3,
+    "category": "Understanding Social Engineering Methods",
+    "questionText": "Which of these is not an example of social engineering?",
+    "answers": [
+      "Phishing",
+      "A Trojan Horse",
+      "Shoulder Surfing",
+      "Vishing"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 4,
+    "category": "Understanding Social Engineering Methods",
+    "questionText": "What is the goal of a baiting attack in social engineering?",
+    "answers": [
+      "To create a distraction for another attack",
+      "To provide false information to throw off attackers",
+      "To lure victims with a false promise to deliver malware",
+      "To gather a large group of people for a protest"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 5,
+    "category": "Understanding Social Engineering Methods",
+    "questionText": "In social engineering, what does 'pretexting' involve?",
+    "answers": [
+      "Creating a fabricated scenario to engage a targeted victim",
+      "Encrypting files to demand a ransom",
+      "Sending emails from a fake address",
+      "Pretending to be busy to avoid conversation"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 6,
+    "category": "Understanding Social Engineering Methods",
+    "questionText": "Which technique involves observing people typing sensitive information like passwords?",
+    "answers": [
+      "Phishing",
+      "Baiting",
+      "Shoulder Surfing",
+      "Quid pro quo"
+    ],
+    "correctAnswerIndex": 2
+  }
+]

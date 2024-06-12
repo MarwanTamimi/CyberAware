@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "category": "Understanding Social Engineering Methods",
+    "questionText": "What term describes the technique of exploiting telephone communication to deceive individuals into divulging sensitive information?",
+    "answers": [
+      "Whaling",
+      "Spear phishing",
+      "Vishing",
+      "Pharming"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 1,
+    "category": "Understanding Social Engineering Methods",
+    "questionText": "In social engineering, what is it called when someone gains unauthorized access to restricted areas by following another person?",
+    "answers": [
+      "Pretexting",
+      "Phishing",
+      "Tailgating",
+      "Baiting"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 3,
+    "category": "Understanding Social Engineering Methods",
+    "questionText": "An attacker impersonates a company's manager and pressures an employee to disclose confidential data urgently, citing potential financial losses. Which social engineering principle is being exploited?",
+    "answers": [
+      "Reciprocity",
+      "Commitment",
+      "Authority",
+      "Scarcity"
+    ],
+    "correctAnswerIndex": 2
+  }
+]

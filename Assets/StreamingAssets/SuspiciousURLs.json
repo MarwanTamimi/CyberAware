@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "category": "Identifying Suspicious URLs",
+    "questionText": "Which URL is most secure for accessing financial information?",
+    "answers": [
+      "https://secure.examplebank.com",
+      "http://login-examplebank.com",
+      "https://example-bank-login.com",
+      "http://banking.example.com"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 2,
+    "category": "Identifying Suspicious URLs",
+    "questionText": "Which of the following URLs is likely to be the safest and most legitimate for online banking?",
+    "answers": [
+      "http://www.example-bank.com",
+      "https://banking.example.com",
+      "http://www.examplebank.com",
+      "https://example-banking.com/login/"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 3,
+    "category": "Identifying Suspicious URLs",
+    "questionText": "Select the URL that is most likely legitimate and safe for online shopping:",
+    "answers": [
+      "http://www.amazon-com-deals.com/bargains",
+      "https://192.168.1.1/deals",
+      "https://bit.ly/1234Xyz",
+      "https://www.amazon.com/great-deals"
+    ],
+    "correctAnswerIndex": 3
+  }
+]

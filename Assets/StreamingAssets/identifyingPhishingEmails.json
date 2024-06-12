@@ -1,0 +1,75 @@
+[
+  {
+    "id": 1,
+    "category": "Identifying Phishing Emails",
+    "questionText": "Which element is often included in phishing emails to create a sense of urgency?",
+    "answers": [
+      "Detailed contact information",
+      "An urgent call to action",
+      "A reminder to follow safe browsing practices",
+      "A disclaimer about email authenticity"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 2,
+    "category": "Identifying Phishing Emails",
+    "questionText": "What phishing method involves attackers impersonating a reputable company through emails that contain malicious links?",
+    "answers": [
+      "Link manipulation",
+      "Brand impersonation",
+      "Security spoofing",
+      "Credential harvesting"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 3,
+    "category": "Identifying Phishing Emails",
+    "questionText": "Phishing emails often include which of the following to trick the recipient?",
+    "answers": [
+      "Authentic logos from reputable companies",
+      "Permission requests for software updates",
+      "Links to educational resources about cybersecurity",
+      "Certificates of email security"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 4,
+    "category": "Identifying Phishing Emails",
+    "questionText": "What should raise suspicion when you receive an email from a financial institution?",
+    "answers": [
+      "The email uses a professional tone",
+      "It provides a link to the institution's official website",
+      "It asks for confirmation of personal financial details",
+      "The email includes the bank's official logo"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 5,
+    "category": "Identifying Phishing Emails",
+    "questionText": "How can you verify the authenticity of an email that appears to come from a trusted entity?",
+    "answers": [
+      "By checking if the email address matches the entity's domain exactly",
+      "Replying to the email to see if you get a response",
+      "By calling the phone number provided in the email",
+      "If the email contains no spelling errors"
+    ],
+    "correctAnswerIndex": 0
+  },
+  {
+    "id": 6,
+    "category": "Identifying Phishing Emails",
+    "questionText": "A phishing email pretending to be from a tech company is asking you to verify your account. Which action should you take?",
+    "answers": [
+      "Reply with the requested account details immediately to avoid account suspension",
+      "Ignore the email and log in to your account through the official website to check for any issues",
+      "Call the tech company on their official customer service number to verify the request",
+      "Forward the email to your contacts to see if they have received a similar request"
+    ],
+    "correctAnswerIndex": 1
+  }
+]
+

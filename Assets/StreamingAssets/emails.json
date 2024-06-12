@@ -1,0 +1,78 @@
+{
+  "emails": [
+    {
+      "subject": "Microsoft account password change",
+      "sender": "supprt@microsoft.com",
+      "body": "Your Password for Microsoft account Marwan@CyberAware.co was changed. If this was you, then you can safely ignore this email.\n\nSecurity info used:\nCountry/region: United Kingdom\nPlatform: iOS\nBrowser: Safari\nIP: 192.90.86.10\n\nIf this wasn't you, your account has been compromised. Please follow these steps:\n1. Reset your password\n2. Review your security info\n3. Learn how to make your account more secure.\n\nThanks,\nThe Microsoft account team",
+      "isPhishing": true
+    },
+    {
+      "subject": "Password reset instructions",
+      "sender": "calendly@complexty-checker.com",
+      "body": "Hi Lenny,\n\nA request has been made to reset your Calendly account's password.\n\nHere's a link to reset your password:\n<u><color=#0000FF>https://calendreset.canlendPassword.com</color></u>\n\nIf you did not make this request, please report it at: <u><color=#0000FF>http://Calendly.reportMePhising.com</color></u>\n\nThanks!\nThe Calendly Team",
+      "isPhishing": true
+    },
+
+
+
+
+      {
+        "subject": "Immediate Action Required: Unrecognized Login Attempt",
+        "sender": "alrt@hsbc-secure.com",
+        "body": "Dear Lenny,\n\nWe have noticed a login attempt to your HSBC Banking account from an unrecognized device on February 27, 2024, at 3:22 AM (UTC).\n\nThe attempt was made from a location in Spain, which does not match your profile.\n\nIf you did not initiate this attempt, it is imperative to secure your account immediately.\nFor your protection, please go to our official website or use the link below to verify your identity and change your password.\n\nDo not disregard this message, as your account safety is our top priority.\n\n[Secure My Account]",
+        "isPhishing": true
+      },
+
+
+      {
+        "subject": "FedEx Package Delivery Failure Notification",
+        "sender": "delivery.update@fedex.shipping.com",
+        "body": "Dear Customer,\n\nWe attempted to deliver your package today but were unable to leave it at your specified location. To reschedule a delivery at a time that suits you, or to update your delivery preferences, please follow the link below.\n\nIt is essential to do this within the next 24 hours to avoid the package being returned to the sender.\n\nReschedule My Delivery: <u><link=\"http://fedexDeliviery.site.com\"><color=#0000FF>http://fedexDelivery.site.com</color></link></u>\n\nAdditionally, you can track your package using the FedEx Tracking Portal to ensure the security and prompt delivery of your items.\n\nWe apologize for any inconvenience and thank you for using FedEx.",
+        "isPhishing": true
+      },
+
+
+
+      {
+        "subject": "Urgent: Update Your PayPal Account Information",
+        "sender": "service@paypl-communication.com",
+        "body": "We've noticed unusual activity in your PayPal account and need you to update your account information within 24 hours to continue using our services without interruption.\n\nPlease use the link below to confirm your identity and update your information:\n\n[Update Account Information]\n\nIgnoring this message could result in temporary suspension of your account for security reasons.\n\nThank you for your prompt attention to this matter.\n\nSincerely,\nThe PayPal Security Team",
+        "isPhishing": true
+      },
+      {
+        "subject": "Welcome to CyberAware!",
+        "sender": "CyberAwareBank <dontreply@cyberawarebank.com>",
+        "body": "We are sending you this email as a precaution so that you can recognize a fraudulent email if you receive one. CyberAwareBank will always greet you personally using your title and surname and, where you hold an existing account with us, the last four digits of your account number: XXXX91023.\n\nDear Mr. Lenny Smith,\n\nImportant Security Information:\nWe will never send you an email asking for your login details, nor will we direct you to a webpage that requests this information. Please visit the security pages on our website for more details. Fraudsters may attempt to imitate our emails. If you receive an email that doesn't feature your name, please do not click on any links it may contain - instead, forward it to us immediately for investigation at emailscams@cyberawarebank.com and then delete it.\n\nIf you have any concerns about this email or require further assistance, please call us on our dedicated phone line, or visit our website and use our live chat service for more inquiries (Mon-Fri: 8am-6pm, Sat: 10am-4pm).\n\nThank you for your vigilance and for helping us keep our community safe.\n\nWarm regards,\nThe CyberAwareBank Team",
+        "isPhishing": false
+      },
+
+    {
+      "subject": "Your Amazon Order Confirmation",
+      "sender": "Amazon.co.uk <auto.confirm@amazon.co.uk>",
+      "body": "Hello,\nThanks for your order. We’ll let you know once your item(s) have dispatched. Your estimated delivery date is indicated below. You can view the status of your order or make changes to it by visiting <u><color=#0000FF>https://www.amazon.co.uk/YourOrders</color></u>.\n\nOrder Confirmation\nArriving: Saturday, February 17\n\nYour order will be sent to:\nLenny\nSouthampton\nUnited Kingdom\n\nYour delivery option: Premium Delivery\nYour delivery preference: Dispatch item(s) as soon as they become available.\nOrder #203-1428362\n\n View order details",
+      "isPhishing": false
+    },
+    {
+      "subject": "Your latest HSBC current account statement is avaiable to view",
+      "sender": "statements@email1.hsbc.co.uk",
+      "body": "Dear Mr. Lenny Fitzgerald Kennedy,\n\nYour monthly statement for your checking account #*****1234 is now available. Viewing your statement is easy:\n\nOur App:\n- Log on to the HSBC UK Mobile Banking app\n- Select your account\n- Go to 'View more' and select ‘View statements'\n\nOnline Banking:\n- Log on to Online Banking at <u><color=#0000FF>https://www.hsbc.co.uk</color></u>\n- Select 'Statements' from the quick links section\n- Select the account you want to see a statement for\n\nPlease check your statements on a regular basis. Contact us if you have any concerns.\n\nThank you for choosing us as your banking partner.\n\nSincerely,\nYour HSBC Banking Team",
+      "isPhishing": false
+    },
+
+      {
+        "subject": "Welcome to Spotify Premium",
+        "sender": "Spotify <no-reply@spotify.com>",
+        "body": "Hello,\n\nWelcome to Spotify Premium! You now have unlimited access to millions of songs, podcasts, and audiobooks without any interruptions from ads. Enjoy the ability to listen offline and with better sound quality.\n\nYour subscription details:\n- Plan: Premium Individual\n- Next billing date: March 15, 2024\n\nManage your subscription and explore your benefits by logging into your account on the Spotify app or website.\n\nThank you for choosing Spotify Premium. Enjoy your listening experience to the fullest!\n\nBest,\nThe Spotify Team",
+        "isPhishing": false
+      },
+      {
+        "subject": "Flight Itinerary Confirmation",
+        "sender": "British Airways <booking@britishairways.com>",
+        "body": "Dear Traveler,\n\nThank you for choosing British Airways. Your flight booking is confirmed. Please find your flight itinerary below.\n\nFlight Details:\n- Flight Number: BA 287\n- Departure: London Heathrow (LHR) - April 10, 2024, 10:00 GMT\n- Arrival: San Francisco International (SFO) - April 10, 2024, 13:00 PST\n- Class: Economy\n\nPlease ensure to check-in online 24 hours before your flight. You can manage your booking and check-in on our website or mobile app.\n\nWe look forward to welcoming you on board.\n\nSafe travels,\nThe British Airways Team",
+        "isPhishing": false
+      }
+
+  ]
+    }
+
+

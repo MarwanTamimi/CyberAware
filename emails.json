@@ -1,0 +1,15 @@
+{
+  "emails": [
+    {
+      "subject": "Your account needs attention",
+      "sender": "support@examplebank.com",
+      "body": "Dear user, please update your details by clicking on the link below."
+    },
+    {
+      "subject": "Suspicious login attempt detected",
+      "sender": "security@techcorp.com",
+      "body": "We've detected a login attempt from an unusual location. Was this you?"
+    },
+    // Add more emails as needed
+  ]
+}

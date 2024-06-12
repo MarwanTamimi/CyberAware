@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "category": "Identifying Phishing Emails",
+    "questionText": "Which tactic is most indicative of a phishing attempt when analyzing an email's content?",
+    "answers": [
+      "The inclusion of official images",
+      "Offering customer rewards",
+      "Demands for immediate action to prevent account closure",
+      "Updates about company policy"
+    ],
+    "correctAnswerIndex": 2
+  },
+  {
+    "id": 2,
+    "category": "Identifying Phishing Emails",
+    "questionText": "How can one identify a phishing email disguised as a notification from a financial institution?",
+    "answers": [
+      "It includes a direct phone number to customer service",
+      "It requests confirmation of account details via email",
+      "It is sent from a public email domain",
+      "It uses the bank's official logo"
+    ],
+    "correctAnswerIndex": 1
+  },
+  {
+    "id": 3,
+    "category": "Identifying Phishing Emails",
+    "questionText": "What phishing method involves attackers impersonating a reputable company through emails that contain malicious links?",
+    "answers": [
+      "Link manipulation",
+      "Brand impersonation",
+      "Security spoofing",
+      "Credential harvesting"
+    ],
+    "correctAnswerIndex": 1
+  }
+]
